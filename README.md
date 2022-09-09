@@ -1,4 +1,4 @@
-# Video Visualizing: JPEG2000 quality/filesize tradeoff
+# Visualizing JPEG2000 EBCOT reconstruction (quality/filesize tradeoff)
 
 https://user-images.githubusercontent.com/391964/189425540-aff6beb0-db45-4569-80f1-b3c63f862903.mp4
 
