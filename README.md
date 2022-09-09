@@ -1,6 +1,6 @@
 # Video Visualizing: JPEG2000 quality/filesize tradeoff
 
-https://raw.githubusercontent.com/ledyba/visualizing-jpeg2000-quality-versus-filesize/magistra/video.mp4
+https://user-images.githubusercontent.com/391964/189425540-aff6beb0-db45-4569-80f1-b3c63f862903.mp4
 
 ## Original
 ![](original/DSC04751.JPG)
@@ -19,3 +19,6 @@ https://raw.githubusercontent.com/ledyba/visualizing-jpeg2000-quality-versus-fil
 
 ## quality=35
 ![](decoded/35.png)
+
+## quality=40
+![](decoded/40.png)
